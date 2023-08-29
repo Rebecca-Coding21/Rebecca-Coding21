@@ -1,6 +1,6 @@
 ### Hi there, I'm Rebecca👋 I'm a programmer with background in structural engineering. 
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Python.
 - 👯 I’m looking to collaborate on any project associated with structural engineering and architecture.
 - 📫 How to reach me: https://www.linkedin.com/in/rebecca-g%C3%B6bel-7b58a7185/
 
